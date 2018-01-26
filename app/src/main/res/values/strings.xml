@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BluetoothPOC</string>
+    <string name="empty_message">Aun no tiene dispositivo OBD conectado al celular. Por favor ingrese a la configuracion de bluetooth y
+    realice el emparejamiento y conexion con un dispositivo OBD</string>
+</resources>
